@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+ width: 100%;
+
+ 
+}
+.list{
+    font-style:normal;
+    margin: 20px;
+}
+h1{
+    margin-right: 200px;
+}
